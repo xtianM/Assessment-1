@@ -79,6 +79,14 @@ span {
 p {
   text-align: left;
 }
+
+@media (max-width: 1366px) {
+  #about .content-1 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
 /* 
     4.  Collaborative Task for Assessment
 
